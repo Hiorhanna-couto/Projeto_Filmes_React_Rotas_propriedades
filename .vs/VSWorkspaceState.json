@@ -3,7 +3,8 @@
     "",
     "\\api_filmes_senai",
     "\\api_filmes_senai\\Contexts",
-    "\\api_filmes_senai\\Migrations"
+    "\\api_filmes_senai\\Controllers"
   ],
+  "SelectedNode": "\\api_filmes_senai\\Contexts\\Filmes_Context.cs",
   "PreviewInSolutionExplorer": false
 }

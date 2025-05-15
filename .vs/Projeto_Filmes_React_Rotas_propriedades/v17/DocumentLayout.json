@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\52267963825\\Desktop\\Projeto_Filmes_React_Rotas_propriedades.git\\Projeto_Filmes_React_Rotas_propriedades\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\52267963825\\Desktop\\Projeto_Filmes_React_Rotas_propriedades.git\\Projeto_Filmes_React_Rotas_propriedades\\api_filmes_senai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:api_filmes_senai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\52267963825\\Desktop\\Projeto_Filmes_React_Rotas_propriedades.git\\Projeto_Filmes_React_Rotas_propriedades\\api_filmes_senai\\Contexts\\Filmes_Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:api_filmes_senai\\Contexts\\Filmes_Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\52267963825\\Desktop\\Projeto_Filmes_React_Rotas_propriedades.git\\Projeto_Filmes_React_Rotas_propriedades\\api_filmes_senai\\Controllers\\GeneroController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:api_filmes_senai\\Controllers\\GeneroController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\52267963825\\Desktop\\Projeto_Filmes_React_Rotas_propriedades.git\\Projeto_Filmes_React_Rotas_propriedades\\api_filmes_senai\\Controllers\\FilmeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:api_filmes_senai\\Controllers\\FilmeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\52267963825\\Desktop\\Projeto_Filmes_React_Rotas_propriedades.git\\Projeto_Filmes_React_Rotas_propriedades\\api_filmes_senai\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:api_filmes_senai\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\52267963825\\Desktop\\Projeto_Filmes_React_Rotas_propriedades.git\\Projeto_Filmes_React_Rotas_propriedades\\api_filmes_senai\\Controllers\\UsuarioController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:api_filmes_senai\\Controllers\\UsuarioController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Filmes_Context.cs",
+              "DocumentMoniker": "C:\\Users\\52267963825\\Desktop\\Projeto_Filmes_React_Rotas_propriedades.git\\Projeto_Filmes_React_Rotas_propriedades\\api_filmes_senai\\Contexts\\Filmes_Context.cs",
+              "RelativeDocumentMoniker": "api_filmes_senai\\Contexts\\Filmes_Context.cs",
+              "ToolTip": "C:\\Users\\52267963825\\Desktop\\Projeto_Filmes_React_Rotas_propriedades.git\\Projeto_Filmes_React_Rotas_propriedades\\api_filmes_senai\\Contexts\\Filmes_Context.cs",
+              "RelativeToolTip": "api_filmes_senai\\Contexts\\Filmes_Context.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:07:12.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\52267963825\\Desktop\\Projeto_Filmes_React_Rotas_propriedades.git\\Projeto_Filmes_React_Rotas_propriedades\\api_filmes_senai\\appsettings.json",
+              "RelativeDocumentMoniker": "api_filmes_senai\\appsettings.json",
+              "ToolTip": "C:\\Users\\52267963825\\Desktop\\Projeto_Filmes_React_Rotas_propriedades.git\\Projeto_Filmes_React_Rotas_propriedades\\api_filmes_senai\\appsettings.json",
+              "RelativeToolTip": "api_filmes_senai\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T12:07:03.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\52267963825\\Desktop\\Projeto_Filmes_React_Rotas_propriedades.git\\Projeto_Filmes_React_Rotas_propriedades\\api_filmes_senai\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "api_filmes_senai\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\52267963825\\Desktop\\Projeto_Filmes_React_Rotas_propriedades.git\\Projeto_Filmes_React_Rotas_propriedades\\api_filmes_senai\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "api_filmes_senai\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:02:56.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\52267963825\\Desktop\\Projeto_Filmes_React_Rotas_propriedades.git\\Projeto_Filmes_React_Rotas_propriedades\\api_filmes_senai\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "api_filmes_senai\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\52267963825\\Desktop\\Projeto_Filmes_React_Rotas_propriedades.git\\Projeto_Filmes_React_Rotas_propriedades\\api_filmes_senai\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "api_filmes_senai\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:02:51.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilmeController.cs",
+              "DocumentMoniker": "C:\\Users\\52267963825\\Desktop\\Projeto_Filmes_React_Rotas_propriedades.git\\Projeto_Filmes_React_Rotas_propriedades\\api_filmes_senai\\Controllers\\FilmeController.cs",
+              "RelativeDocumentMoniker": "api_filmes_senai\\Controllers\\FilmeController.cs",
+              "ToolTip": "C:\\Users\\52267963825\\Desktop\\Projeto_Filmes_React_Rotas_propriedades.git\\Projeto_Filmes_React_Rotas_propriedades\\api_filmes_senai\\Controllers\\FilmeController.cs",
+              "RelativeToolTip": "api_filmes_senai\\Controllers\\FilmeController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAGsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:02:26.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeneroController.cs",
+              "DocumentMoniker": "C:\\Users\\52267963825\\Desktop\\Projeto_Filmes_React_Rotas_propriedades.git\\Projeto_Filmes_React_Rotas_propriedades\\api_filmes_senai\\Controllers\\GeneroController.cs",
+              "RelativeDocumentMoniker": "api_filmes_senai\\Controllers\\GeneroController.cs",
+              "ToolTip": "C:\\Users\\52267963825\\Desktop\\Projeto_Filmes_React_Rotas_propriedades.git\\Projeto_Filmes_React_Rotas_propriedades\\api_filmes_senai\\Controllers\\GeneroController.cs",
+              "RelativeToolTip": "api_filmes_senai\\Controllers\\GeneroController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:01:47.321Z",
+              "EditorCaption": ""
             }
           ]
         }
